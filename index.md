@@ -84,7 +84,9 @@
 
 ## Device Clients
 
-- [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
+- [Arduino](https://github.com/ibm-watson-iot/device-arduino)
+- [Raspberry Pi](https://github.com/ibm-watson-iot/device-raspberrypi)
+- [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
 - [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
 - [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
 
@@ -94,13 +96,17 @@
 - [OSRAM Lightify](https://github.com/ibm-watson-iot/gateway-lightify)
 - [Samsung SmartThings](https://github.com/ibm-watson-iot/gateway-smartthings)
 - [Philips Hue](https://github.com/ibm-watson-iot/gateway-hue)
+- [Bluetooth LE](https://github.com/ibm-watson-iot/gateway-ble)
 - [NodeJS](https://github.com/ibm-watson-iot/)
 
 
-## Connectors
+
+## Connector Applications
 
 - [StatsD](https://github.com/ibm-watson-iot/connector-statsd)
-- [NodeJS](https://github.com/ibm-watson-iot/)
+- [Cloudant](https://github.com/ibm-watson-iot/connector-cloudant)
+- [MessageHub](https://github.com/ibm-watson-iot/connector-messagehub)
+- [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
 
 ## Solutions
@@ -128,17 +134,27 @@
 - [Climate Control](https://github.com/ibm-watson-iot/climate-control-sample)
 - [Widgets](https://github.com/ibm-watson-iot/iot-widgets)
 - [Predictive Analytics](https://github.com/ibm-watson-iot/predictive-analytics-samples)
+- [Streaming Analytics](https://github.com/ibm-watson-iot/streaming-analytic-samples)
 - [PMQ Integration](https://github.com/ibm-watson-iot/pmq-integration-samples)
 - [Bluemmix Starter](https://github.com/ibm-watson-iot/iot-platform-bluemix-starter)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Discover IoT](https://github.com/ibm-watson-iot/discover-iot-sample)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
-- [Arduino](https://github.com/ibm-watson-iot/device-arduino)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Edge Analytics](https://github.com/ibm-watson-iot/edge-analytics-samples)
 - [Elevator Simulator](https://github.com/ibm-watson-iot/elevator-simulator)
 - [Watson Dialog Service Integration](https://github.com/ibm-watson-iot/iot-dialog)
-
+- [Configuration Backup & Restore](https://github.com/ibm-watson-iot/backup-restore-sample)
+- [Starter Application (iOS)](https://github.com/ibm-watson-iot/iot-starter-for-ios)
+- [MessageHub Spark Integration](https://github.com/ibm-watson-iot/iot-messgehub-spark-samples)
+- [Beaglebone](https://github.com/ibm-watson-iot/iot-beaglebone)
+- [Galileo](https://github.com/ibm-watson-iot/iot-galileo)
+- [Simplelink](https://github.com/ibm-watson-iot/iot-simplelink)
+- [Conyeyor Simulator](https://github.com/ibm-watson-iot/guide-conveyor-simulator)
+- [Conyeyor Multi Simulator](https://github.com/ibm-watson-iot/guide-conveyor-multi-simulator)
+- [Conyeyor Raspberry Pi](https://github.com/ibm-watson-iot/guide-conveyor-rasp-pi)
+- [Conveyor UI](https://github.com/ibm-watson-iot/guide-conveyor-ui-html)
+- [Conyeyor UI - Angular](https://github.com/ibm-watson-iot/guide-conveyor-ui-angular)
 
 
 ## IoT for Automotive Starter
@@ -152,10 +168,10 @@
 - [Fleet Management ODB Application (Android)](https://github.com/ibm-watson-iot/iota-starter-obd-android)
 - [Car Sharing Application (Android)](https://github.com/ibm-watson-iot/iota-starter-carsharing-android)
 - [Car Sharing Application (iOS)](https://github.com/ibm-watson-iot/iota-starter-carsharing)
-- [NodeJS](https://github.com/ibm-watson-iot/)
-- [NodeJS](https://github.com/ibm-watson-iot/)
-- [NodeJS](https://github.com/ibm-watson-iot/)
 
+
+## IoT for Electronics
+- [Mobile Application](https://github.com/ibm-watson-iot/iote-mobile)
 
 ## IoT for Insurance
 
@@ -165,10 +181,16 @@
 - [Samples](https://github.com/ibm-watson-iot/ioti-samples)
 
 
+## MessageSight
+
+- [Chef Cookbook](https://github.com/ibm-watson-iot/messagesight-chef)
+
 ## Deprecated Repositories
 
 - [Application Samples](https://github.com/ibm-watson-iot/iot-application-samples) -- Samples will be merged into the client library repositories
+- [Scalable Application Samples](https://github.com/ibm-watson-iot/iot-scalable-application-samples) -- Samples will be merged into the client library repositories
 - [Device Samples](https://github.com/ibm-watson-iot/iot-device-samples) -- Samples will be merged into the client library repositories
+- [Gateway Samples](https://github.com/ibm-watson-iot/iot-gateway-samples) -- Samples will be merged into the client library repositories
 - [API Samples](https://github.com/ibm-watson-iot/iot-platform-apiv2-samples) -- Samples will be merged into the client library repositories
 - [Historian Export](https://github.com/ibm-watson-iot/historian-export) --The Historian was sunet in 2016, the exporter has served it's purpose
 
