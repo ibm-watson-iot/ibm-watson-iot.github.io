@@ -87,7 +87,7 @@
 - [Arduino](https://github.com/ibm-watson-iot/device-arduino)
 - [Raspberry Pi](https://github.com/ibm-watson-iot/device-raspberrypi)
 - [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
-
+- [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
 ## Gateways
 
@@ -102,7 +102,6 @@
 - [StatsD](https://github.com/ibm-watson-iot/connector-statsd)
 - [Cloudant](https://github.com/ibm-watson-iot/connector-cloudant)
 - [MessageHub](https://github.com/ibm-watson-iot/connector-messagehub)
-- [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
 
 ## Solutions
