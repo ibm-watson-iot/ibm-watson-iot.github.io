@@ -129,8 +129,7 @@
 - [Cognitive](https://github.com/ibm-watson-iot/cognitive-samples)
 - [Blockchain](https://github.com/ibm-watson-iot/blockchain-samples)
 - [Blockchain (Experimental](https://github.com/ibm-watson-iot/blockchain-experimental)
-- [Custom Cards](https://github.com/ibm-watson-iot/custom-card-sample)
-- [Custom Cards (Again)](https://github.com/ibm-watson-iot/custom-cards)
+- [Custom Cards](https://github.com/ibm-watson-iot/custom-cards)
 - [Climate Control](https://github.com/ibm-watson-iot/climate-control-sample)
 - [Widgets](https://github.com/ibm-watson-iot/iot-widgets)
 - [Predictive Analytics](https://github.com/ibm-watson-iot/predictive-analytics-samples)
@@ -193,4 +192,7 @@
 - [Gateway Samples](https://github.com/ibm-watson-iot/iot-gateway-samples) -- Samples will be merged into the client library repositories
 - [API Samples](https://github.com/ibm-watson-iot/iot-platform-apiv2-samples) -- Samples will be merged into the client library repositories
 - [Historian Export](https://github.com/ibm-watson-iot/historian-export) --The Historian was sunet in 2016, the exporter has served it's purpose
+- [iot-gw-solutions](https://github.com/ibm-watson-iot/iot-gw-solutions) -- Will be replaced by iot-python/samples/psutil
+- [Custom Cards (Again)](https://github.com/ibm-watson-iot/custom-card-sample) -- will be merged into customcards repo
+
 
