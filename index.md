@@ -87,8 +87,6 @@
 - [Arduino](https://github.com/ibm-watson-iot/device-arduino)
 - [Raspberry Pi](https://github.com/ibm-watson-iot/device-raspberrypi)
 - [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
-- [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
-- [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
 
 
 ## Gateways
@@ -97,8 +95,6 @@
 - [Samsung SmartThings](https://github.com/ibm-watson-iot/gateway-smartthings)
 - [Philips Hue](https://github.com/ibm-watson-iot/gateway-hue)
 - [Bluetooth LE](https://github.com/ibm-watson-iot/gateway-ble)
-- [NodeJS](https://github.com/ibm-watson-iot/)
-
 
 
 ## Connector Applications
@@ -113,15 +109,6 @@
 
 - [Visualization in Grafana](https://github.com/ibm-watson-iot/grafana4iot)
 - [Visualization in Riskshaw](https://github.com/ibm-watson-iot/rickshaw4iot)
-- [NodeJS](https://github.com/ibm-watson-iot/)
-- 
-
-
-## Guides
-
-- [NodeJS](https://github.com/ibm-watson-iot/)
-- [NodeJS](https://github.com/ibm-watson-iot/)
-- [NodeJS](https://github.com/ibm-watson-iot/)
 
 
 ## Samples & Simulators
