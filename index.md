@@ -141,6 +141,8 @@
 - [Conveyor UI](https://github.com/ibm-watson-iot/guide-conveyor-ui-html)
 - [Conyeyor UI - Angular](https://github.com/ibm-watson-iot/guide-conveyor-ui-angular)
 
+## Reference Samples
+- [IoT reference sample for Climate Control Node-RED application](https://github.com/ibm-watson-iot/climate-control-sample)
 
 ## IoT for Automotive Starter
 
