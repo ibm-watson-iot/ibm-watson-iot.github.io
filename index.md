@@ -112,7 +112,6 @@
 
 ## Samples & Simulators
 
-- [Cognitive](https://github.com/ibm-watson-iot/cognitive-samples)
 - [Blockchain](https://github.com/ibm-watson-iot/blockchain-samples)
 - [Blockchain (Experimental](https://github.com/ibm-watson-iot/blockchain-experimental)
 - [Custom Cards](https://github.com/ibm-watson-iot/custom-cards)
@@ -125,11 +124,9 @@
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Discover IoT](https://github.com/ibm-watson-iot/discover-iot-sample)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
-- [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Edge Analytics](https://github.com/ibm-watson-iot/edge-analytics-samples)
 - [Elevator Simulator](https://github.com/ibm-watson-iot/elevator-simulator)
 - [Watson Dialog Service Integration](https://github.com/ibm-watson-iot/iot-dialog)
-- [Configuration Backup & Restore](https://github.com/ibm-watson-iot/backup-restore-sample)
 - [Starter Application (iOS)](https://github.com/ibm-watson-iot/iot-starter-for-ios)
 - [MessageHub Spark Integration](https://github.com/ibm-watson-iot/iot-messgehub-spark-samples)
 - [Beaglebone](https://github.com/ibm-watson-iot/iot-beaglebone)
@@ -140,8 +137,6 @@
 - [Conyeyor Raspberry Pi](https://github.com/ibm-watson-iot/guide-conveyor-rasp-pi)
 - [Conveyor UI](https://github.com/ibm-watson-iot/guide-conveyor-ui-html)
 - [Conyeyor UI - Angular](https://github.com/ibm-watson-iot/guide-conveyor-ui-angular)
-
-## Reference Samples
 - [IoT reference sample for Climate Control Node-RED application](https://github.com/ibm-watson-iot/climate-control-sample)
 
 ## IoT for Automotive Starter
@@ -174,13 +169,8 @@
 
 ## Deprecated Repositories
 
-- [Application Samples](https://github.com/ibm-watson-iot/iot-application-samples) -- Samples will be merged into the client library repositories
-- [Scalable Application Samples](https://github.com/ibm-watson-iot/iot-scalable-application-samples) -- Samples will be merged into the client library repositories
 - [Device Samples](https://github.com/ibm-watson-iot/iot-device-samples) -- Samples will be merged into the client library repositories
-- [Gateway Samples](https://github.com/ibm-watson-iot/iot-gateway-samples) -- Samples will be merged into the client library repositories
-- [API Samples](https://github.com/ibm-watson-iot/iot-platform-apiv2-samples) -- Samples will be merged into the client library repositories
 - [Historian Export](https://github.com/ibm-watson-iot/historian-export) --The Historian was sunet in 2016, the exporter has served it's purpose
 - [iot-gw-solutions](https://github.com/ibm-watson-iot/iot-gw-solutions) -- Will be replaced by iot-python/samples/psutil
-- [Custom Cards (Again)](https://github.com/ibm-watson-iot/custom-card-sample) -- will be merged into customcards repo
 
 
