@@ -121,7 +121,6 @@
 - [Streaming Analytics](https://github.com/ibm-watson-iot/streaming-analytic-samples)
 - [PMQ Integration](https://github.com/ibm-watson-iot/pmq-integration-samples)
 - [Bluemmix Starter](https://github.com/ibm-watson-iot/iot-platform-bluemix-starter)
-- [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Discover IoT](https://github.com/ibm-watson-iot/discover-iot-sample)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Edge Analytics](https://github.com/ibm-watson-iot/edge-analytics-samples)
@@ -132,16 +131,10 @@
 - [Beaglebone](https://github.com/ibm-watson-iot/iot-beaglebone)
 - [Galileo](https://github.com/ibm-watson-iot/iot-galileo)
 - [Simplelink](https://github.com/ibm-watson-iot/iot-simplelink)
-- [Conyeyor Simulator](https://github.com/ibm-watson-iot/guide-conveyor-simulator)
-- [Conyeyor Multi Simulator](https://github.com/ibm-watson-iot/guide-conveyor-multi-simulator)
-- [Conyeyor Raspberry Pi](https://github.com/ibm-watson-iot/guide-conveyor-rasp-pi)
-- [Conveyor UI](https://github.com/ibm-watson-iot/guide-conveyor-ui-html)
-- [Conyeyor UI - Angular](https://github.com/ibm-watson-iot/guide-conveyor-ui-angular)
-- [IoT reference sample for Climate Control Node-RED application](https://github.com/ibm-watson-iot/climate-control-sample)
+- [Getting Started Guide: Conveyor Sample](https://github.com/ibm-watson-iot/guide-conveyor)
 
 ## IoT for Automotive Starter
 
-- [Starter Server](https://github.com/ibm-watson-iot/iota-starter-server)
 - [Starter Server](https://github.com/ibm-watson-iot/iota-starter-server)
 - [Starter Application (Android)](https://github.com/ibm-watson-iot/iot-starter-for-android)
 - [Fleet Management Starter Server](https://github.com/ibm-watson-iot/iota-starter-server-fm)
