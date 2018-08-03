@@ -113,7 +113,6 @@
 ## Samples & Simulators
 
 - [Blockchain](https://github.com/ibm-watson-iot/blockchain-samples)
-- [Blockchain (Experimental](https://github.com/ibm-watson-iot/blockchain-experimental)
 - [Custom Cards](https://github.com/ibm-watson-iot/custom-cards)
 - [Climate Control](https://github.com/ibm-watson-iot/climate-control-sample)
 - [Widgets](https://github.com/ibm-watson-iot/iot-widgets)
