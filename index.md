@@ -163,7 +163,6 @@
 ## Deprecated Repositories
 
 - [Device Samples](https://github.com/ibm-watson-iot/iot-device-samples) -- Samples will be merged into the client library repositories
-- [Historian Export](https://github.com/ibm-watson-iot/historian-export) --The Historian was sunet in 2016, the exporter has served it's purpose
 - [iot-gw-solutions](https://github.com/ibm-watson-iot/iot-gw-solutions) -- Will be replaced by iot-python/samples/psutil
 
 
