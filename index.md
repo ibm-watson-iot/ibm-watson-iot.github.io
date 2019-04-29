@@ -2,11 +2,11 @@
 
 ## Client Libraries
 
-[Python](https://github.com/ibm-watson-iot/iot-python)
-[Java](https://github.com/ibm-watson-iot/iot-java)
-[NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
-[C](https://github.com/ibm-watson-iot/iot-c)
-[C#](https://github.com/ibm-watson-iot/iot-csharp)
+- [Python](https://github.com/ibm-watson-iot/iot-python)
+- [Java](https://github.com/ibm-watson-iot/iot-java)
+- [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
+- [C](https://github.com/ibm-watson-iot/iot-c)
+- [C#](https://github.com/ibm-watson-iot/iot-csharp)
 
 
 ## NodeRED Nodes
@@ -23,7 +23,6 @@
 ## Device Clients
 
 - [Arduino](https://github.com/ibm-watson-iot/device-arduino)
-- [Raspberry Pi](https://github.com/ibm-watson-iot/device-raspberrypi)
 - [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
 - [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
