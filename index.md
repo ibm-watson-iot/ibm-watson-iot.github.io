@@ -3,72 +3,10 @@
 ## Client Libraries
 
 [Python](https://github.com/ibm-watson-iot/iot-python)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-python/)
-[![PyPI](https://img.shields.io/pypi/v/ibmiotf.svg)](https://pypi.python.org/pypi/ibmiotf)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-python/all.svg)](https://github.com/ibm-watson-iot/iot-python/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-python.svg)](https://github.com/ibm-watson-iot/iot-python/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-python.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-python.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-python.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-python.svg?style=social&label=Watch)]()
-
-
 [Java](https://github.com/ibm-watson-iot/iot-java)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-java/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-java/all.svg)](https://github.com/ibm-watson-iot/iot-java/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-java.svg)](https://github.com/ibm-watson-iot/iot-java/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-java.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-java.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-java.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-java.svg?style=social&label=Watch)]()
-
 [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-nodejs/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-nodejs/all.svg)](https://github.com/ibm-watson-iot/iot-nodejs/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-nodejs.svg)](https://github.com/ibm-watson-iot/iot-nodejs/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-nodejs.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-nodejs.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-nodejs.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-nodejs.svg?style=social&label=Watch)]()
-
-[C++](https://github.com/ibm-watson-iot/iot-cpp)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-cpp/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-cpp/all.svg)](https://github.com/ibm-watson-iot/iot-cpp/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-cpp.svg)](https://github.com/ibm-watson-iot/iot-cpp/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-cpp.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-cpp.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-cpp.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-cpp.svg?style=social&label=Watch)]()
-
-[Embedded C](https://github.com/ibm-watson-iot/iot-embeddedc)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-embeddedc/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-embeddedc/all.svg)](https://github.com/ibm-watson-iot/iot-embeddedc/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-embeddedc.svg)](https://github.com/ibm-watson-iot/iot-embeddedc/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-embeddedc.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-embeddedc.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-embeddedc.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-embeddedc.svg?style=social&label=Watch)]()
-
+[C](https://github.com/ibm-watson-iot/iot-c)
 [C#](https://github.com/ibm-watson-iot/iot-csharp)
-
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ibm-watson-iot/iot-csharp/)
-[![GitHub (pre-)release](https://img.shields.io/github/release/ibm-watson-iot/iot-csharp/all.svg)](https://github.com/ibm-watson-iot/iot-csharp/releases)
-[![GitHub issues](https://img.shields.io/github/issues/ibm-watson-iot/iot-csharp.svg)](https://github.com/ibm-watson-iot/iot-csharp/issues)
-[![license](https://img.shields.io/github/license/ibm-watson-iot/iot-csharp.svg)]()
-
-[![GitHub forks](https://img.shields.io/github/forks/ibm-watson-iot/iot-csharp.svg?style=social&label=Fork)]()
-[![GitHub stars](https://img.shields.io/github/stars/ibm-watson-iot/iot-csharp.svg?style=social&label=Star)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/ibm-watson-iot/iot-csharp.svg?style=social&label=Watch)]()
 
 
 ## NodeRED Nodes
@@ -89,7 +27,8 @@
 - [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
 - [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
-## Gateways
+
+## Gateway Clients
 
 - [OSRAM Lightify](https://github.com/ibm-watson-iot/gateway-lightify)
 - [Samsung SmartThings](https://github.com/ibm-watson-iot/gateway-smartthings)
@@ -100,8 +39,6 @@
 ## Connector Applications
 
 - [StatsD](https://github.com/ibm-watson-iot/connector-statsd)
-- [Cloudant](https://github.com/ibm-watson-iot/connector-cloudant)
-- [MessageHub](https://github.com/ibm-watson-iot/connector-messagehub)
 
 
 ## Solutions
@@ -132,6 +69,7 @@
 - [Simplelink](https://github.com/ibm-watson-iot/iot-simplelink)
 - [Getting Started Guide: Conveyor Sample](https://github.com/ibm-watson-iot/guide-conveyor)
 
+
 ## IoT for Automotive Starter
 
 - [Starter Server](https://github.com/ibm-watson-iot/iota-starter-server)
@@ -147,6 +85,7 @@
 ## IoT for Electronics
 - [Mobile Application](https://github.com/ibm-watson-iot/iote-mobile)
 
+
 ## IoT for Insurance
 
 - [Shields](https://github.com/ibm-watson-iot/ioti-shields)
@@ -158,6 +97,7 @@
 ## MessageSight
 
 - [Chef Cookbook](https://github.com/ibm-watson-iot/messagesight-chef)
+
 
 ## Deprecated Repositories
 
