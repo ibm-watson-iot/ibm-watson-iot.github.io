@@ -17,13 +17,12 @@
 - [IBM Push](https://github.com/ibm-watson-iot/node-red-contrib-ibmpush)
 - [Bluemix HDFS](https://github.com/ibm-watson-iot/node-red-contrib-bluemix-hdfs)
 - [Application](https://github.com/ibm-watson-iot/node-red-contrib-scx-ibmiotapp)
-- ["Virtual Device"](https://github.com/ibm-watson-iot/node-red-contrib-iot-virtual-device)
+- [Virtual Device](https://github.com/ibm-watson-iot/node-red-contrib-iot-virtual-device)
 
 
 ## Device Clients
 
 - [Arduino](https://github.com/ibm-watson-iot/device-arduino)
-- [Parrot AR Drone](https://github.com/ibm-watson-iot/device-ar-drone)
 - [Kodi](https://github.com/ibm-watson-iot/device-kodi)
 
 
@@ -43,30 +42,14 @@
 ## Solutions
 
 - [Visualization in Grafana](https://github.com/ibm-watson-iot/grafana4iot)
-- [Visualization in Riskshaw](https://github.com/ibm-watson-iot/rickshaw4iot)
 
 
 ## Samples & Simulators
 
-- [Blockchain](https://github.com/ibm-watson-iot/blockchain-samples)
-- [Custom Cards](https://github.com/ibm-watson-iot/custom-cards)
-- [Climate Control](https://github.com/ibm-watson-iot/climate-control-sample)
-- [Widgets](https://github.com/ibm-watson-iot/iot-widgets)
-- [Predictive Analytics](https://github.com/ibm-watson-iot/predictive-analytics-samples)
-- [Streaming Analytics](https://github.com/ibm-watson-iot/streaming-analytic-samples)
-- [PMQ Integration](https://github.com/ibm-watson-iot/pmq-integration-samples)
 - [Bluemmix Starter](https://github.com/ibm-watson-iot/iot-platform-bluemix-starter)
 - [Discover IoT](https://github.com/ibm-watson-iot/discover-iot-sample)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
-- [Edge Analytics](https://github.com/ibm-watson-iot/edge-analytics-samples)
-- [Elevator Simulator](https://github.com/ibm-watson-iot/elevator-simulator)
-- [Watson Dialog Service Integration](https://github.com/ibm-watson-iot/iot-dialog)
 - [Starter Application (iOS)](https://github.com/ibm-watson-iot/iot-starter-for-ios)
-- [MessageHub Spark Integration](https://github.com/ibm-watson-iot/iot-messgehub-spark-samples)
-- [Beaglebone](https://github.com/ibm-watson-iot/iot-beaglebone)
-- [Galileo](https://github.com/ibm-watson-iot/iot-galileo)
-- [Simplelink](https://github.com/ibm-watson-iot/iot-simplelink)
-- [Getting Started Guide: Conveyor Sample](https://github.com/ibm-watson-iot/guide-conveyor)
 
 
 ## IoT for Automotive Starter
@@ -91,16 +74,3 @@
 - [Dashboard](https://github.com/ibm-watson-iot/ioti-insurance-dashboard)
 - [Sample Application](https://github.com/ibm-watson-iot/ioti-mobile)
 - [Samples](https://github.com/ibm-watson-iot/ioti-samples)
-
-
-## MessageSight
-
-- [Chef Cookbook](https://github.com/ibm-watson-iot/messagesight-chef)
-
-
-## Deprecated Repositories
-
-- [Device Samples](https://github.com/ibm-watson-iot/iot-device-samples) -- Samples will be merged into the client library repositories
-- [iot-gw-solutions](https://github.com/ibm-watson-iot/iot-gw-solutions) -- Will be replaced by iot-python/samples/psutil
-
-
