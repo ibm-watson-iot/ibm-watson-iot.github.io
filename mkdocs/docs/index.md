@@ -1,12 +1,11 @@
-# IBM Watson IoT
+# IBM Watson IoT Platform
 
-## Client Libraries
+## SDK
 
-- [Python](https://github.com/ibm-watson-iot/iot-python)
-- [Java](https://github.com/ibm-watson-iot/iot-java)
+- [Python](https://ibm-watson-iot.github.io/iot-python/)
+- [Java](https://ibm-watson-iot.github.io/iot-java/)
 - [NodeJS](https://github.com/ibm-watson-iot/iot-nodejs)
 - [C](https://github.com/ibm-watson-iot/iot-c)
-- [C#](https://github.com/ibm-watson-iot/iot-csharp)
 
 
 ## NodeRED Nodes
@@ -50,27 +49,3 @@
 - [Discover IoT](https://github.com/ibm-watson-iot/discover-iot-sample)
 - [HTML5 Phone](https://github.com/ibm-watson-iot/html5-phone)
 - [Starter Application (iOS)](https://github.com/ibm-watson-iot/iot-starter-for-ios)
-
-
-## IoT for Automotive Starter
-
-- [Starter Server](https://github.com/ibm-watson-iot/iota-starter-server)
-- [Starter Application (Android)](https://github.com/ibm-watson-iot/iot-starter-for-android)
-- [Fleet Management Starter Server](https://github.com/ibm-watson-iot/iota-starter-server-fm)
-- [Fleet Management Server](https://github.com/ibm-watson-iot/iota-starter-server-fm-saas)
-- [Fleet Management ODB Application (iOS)](https://github.com/ibm-watson-iot/iota-starter-obd-ios)
-- [Fleet Management ODB Application (Android)](https://github.com/ibm-watson-iot/iota-starter-obd-android)
-- [Car Sharing Application (Android)](https://github.com/ibm-watson-iot/iota-starter-carsharing-android)
-- [Car Sharing Application (iOS)](https://github.com/ibm-watson-iot/iota-starter-carsharing)
-
-
-## IoT for Electronics
-- [Mobile Application](https://github.com/ibm-watson-iot/iote-mobile)
-
-
-## IoT for Insurance
-
-- [Shields](https://github.com/ibm-watson-iot/ioti-shields)
-- [Dashboard](https://github.com/ibm-watson-iot/ioti-insurance-dashboard)
-- [Sample Application](https://github.com/ibm-watson-iot/ioti-mobile)
-- [Samples](https://github.com/ibm-watson-iot/ioti-samples)
