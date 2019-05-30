@@ -2,20 +2,20 @@ apiVersion: v1
 entries:
   oshi:
   - apiVersion: v1
-    created: "2019-05-30T10:48:01.380617+01:00"
+    created: "2019-05-30T12:10:58.1642484+01:00"
     description: A Helm chart for Kubernetes
-    digest: 9f85accad12383062bfbb6c1f66a1b6ebb9fd011004fccfb1a6578785c55e1f3
+    digest: 34a84ef24cfe486d2c938b070edf30e476efa634c7e8793a107a08dbebbfbea5
     name: oshi
     urls:
     - https://ibm-watson-iot.github.io/helm/charts/oshi-1.0.0.tgz
     version: 1.0.0
   psutil:
   - apiVersion: v1
-    created: "2019-05-30T10:48:01.3816174+01:00"
+    created: "2019-05-30T12:10:58.1642484+01:00"
     description: A Helm chart for Kubernetes
-    digest: 46324006af58c6b1d0d32ae4f6edfdd23a8df2557de866234e174321aeed2bd6
+    digest: 820ea707f918b122a055a21405401558dac8b87e70ded0ba890dc83817ec4cff
     name: psutil
     urls:
     - https://ibm-watson-iot.github.io/helm/charts/psutil-0.1.0.tgz
     version: 0.1.0
-generated: "2019-05-30T10:48:01.3796171+01:00"
+generated: "2019-05-30T12:10:58.1622475+01:00"
